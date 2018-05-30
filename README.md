@@ -11,3 +11,10 @@ A curated list of awesome Computational Advertising
 * [美团点评广告实时索引的设计与实现](https://tech.meituan.com/adp-rtidx-ls.html)
 * [视频广告引擎系列1：广告引擎的系统架构和工作模型](https://mp.weixin.qq.com/s/DvIqb20kBew6rFi3AfSQ0Q)
 * [计算广告小窥](https://blog.csdn.net/breada)
+
+* [Google AdSense Help](https://support.google.com/adsense/)
+* [Google DoubleClick Help](https://support.google.com/doubleclick)
+
+* [iab](https://www.iab.com/) - Interactive Advertising Bureau
+* [OpenRTB](https://www.iab.com/guidelines/real-time-bidding-rtb-project/)
+
